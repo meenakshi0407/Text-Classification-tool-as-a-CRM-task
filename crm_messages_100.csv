@@ -1,0 +1,81 @@
+message,label
+The item I received was broken.,complaint
+Why is my order still not delivered?,complaint
+The product quality is terrible.,complaint
+I got charged twice for my order.,complaint
+My issue hasn’t been resolved yet.,complaint
+This is the worst service ever.,complaint
+The return policy is unclear.,complaint
+I didn't get the confirmation email.,complaint
+Received the wrong item again.,complaint
+I waited too long for support.,complaint
+My refund is still pending.,complaint
+This product doesn't match the description.,complaint
+The size chart is misleading.,complaint
+I'm not happy with this experience.,complaint
+The payment failed but money was deducted.,complaint
+Package was open when it arrived.,complaint
+No response from customer care.,complaint
+The delivery date keeps changing.,complaint
+Customer service was rude.,complaint
+Your app keeps crashing.,complaint
+I loved the product!,feedback
+"Amazing experience, thank you.",feedback
+Great quality and fast delivery.,feedback
+Very satisfied with the purchase.,feedback
+Your support team is awesome.,feedback
+Thanks for the quick resolution!,feedback
+Keep up the good work!,feedback
+You made my day!,feedback
+Five stars to your service!,feedback
+Super happy with everything.,feedback
+App is smooth and easy to use.,feedback
+Really appreciate the help.,feedback
+Excellent packaging.,feedback
+Impressed with how fast it arrived.,feedback
+It was a pleasure shopping with you.,feedback
+Website is very user friendly.,feedback
+Awesome customer support.,feedback
+Your service is top notch.,feedback
+The chat assistant was really helpful.,feedback
+Everything worked perfectly!,feedback
+How can I track my package?,query
+Do you offer international shipping?,query
+Is cash on delivery available?,query
+Can I change my delivery address?,query
+How do I reset my password?,query
+Is this available in medium size?,query
+When will this item be back in stock?,query
+Can I return a sale item?,query
+What are your working hours?,query
+Do you have any coupons?,query
+Can I cancel my order after payment?,query
+Do you offer student discounts?,query
+Is EMI available?,query
+Where can I see my past orders?,query
+How long does delivery usually take?,query
+Can I schedule a delivery time?,query
+What payment methods do you accept?,query
+How do I contact customer care?,query
+Can I exchange instead of return?,query
+Do you deliver on Sundays?,query
+I want to place an order.,purchase
+Looking to buy this in red.,purchase
+Can I purchase this now?,purchase
+I'd like to get two of these.,purchase
+How do I subscribe to the service?,purchase
+I'm ready to buy.,purchase
+I want to upgrade my plan.,purchase
+Can I add this to my cart?,purchase
+Interested in premium membership.,purchase
+I need this delivered by tomorrow.,purchase
+Buying it for a gift.,purchase
+I'd like to renew my subscription.,purchase
+Looking for something similar to this.,purchase
+Can I book this item?,purchase
+I want to make a bulk purchase.,purchase
+Where can I find matching accessories?,purchase
+Please send me the payment link.,purchase
+"This is perfect, ordering now!",purchase
+"Just placed an order, excited!",purchase
+Is there an express shipping option?,purchase
